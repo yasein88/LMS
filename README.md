@@ -19,15 +19,15 @@ The system is designed to track books, members, loans, and publishers, ensuring 
 📌 er_diagram.png - Entity-Relationship (ER) Diagram
 📌 logical_diagram.png - Logical Model Schema
 📌 physical_diagram.png - Physical Model Schema
-📌 database_design_diagrams.zip - Compressed file containing all diagrams
+📌 LMS Database Design.drawio - file containing all diagrams working on draw.io
 
 Tools Used:
 
-Diagramming: Draw.io, Lucidchart, Microsoft Visio
-Database Management Systems (DBMS): MySQL, PostgreSQL, Microsoft SQL Server
+Diagramming: Draw.io
+Database Management Systems (DBMS): MySQL
 How to Use:
 
-Download and extract the database_design_diagrams.zip file.
+Download the LMS Database Design.drawio file.
 Review the ER Diagram to understand the high-level structure.
 Check the Logical Model for a normalized schema.
 Implement the Physical Model in a chosen DBMS using the defined table structures.
